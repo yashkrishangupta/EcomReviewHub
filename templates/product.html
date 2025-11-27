@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details - ShopZone</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <a href="/" class="logo">ShopZone</a>
+                <p class="tagline">Your One-Stop Shopping Destination</p>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <a href="/" class="back-link">← Back to Products</a>
+        
+        <div id="product-detail" class="product-detail-container">
+            <p class="loading">Loading product details...</p>
+        </div>
+
+        <div class="reviews-section">
+            <h2>Customer Reviews</h2>
+            
+            <div class="add-review-form">
+                <h3>Write a Review</h3>
+                <form id="review-form">
+                    <div class="form-group">
+                        <label for="user-name">Your Name:</label>
+                        <input type="text" id="user-name" required placeholder="Enter your name">
+                    </div>
+                    <div class="form-group">
+                        <label for="rating">Rating:</label>
+                        <div class="star-rating" id="star-rating">
+                            <span class="star" data-rating="1">★</span>
+                            <span class="star" data-rating="2">★</span>
+                            <span class="star" data-rating="3">★</span>
+                            <span class="star" data-rating="4">★</span>
+                            <span class="star" data-rating="5">★</span>
+                        </div>
+                        <input type="hidden" id="rating" value="0">
+                    </div>
+                    <div class="form-group">
+                        <label for="comment">Your Review:</label>
+                        <textarea id="comment" required placeholder="Write your review here..." rows="4"></textarea>
+                    </div>
+                    <button type="submit" class="btn-submit">Submit Review</button>
+                </form>
+            </div>
+
+            <div id="reviews-container">
+                <p class="loading">Loading reviews...</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>ShopZone - DBMS NoSQL Project | MongoDB + Flask + Python</p>
+        </div>
+    </footer>
+
+    <script>
+        const productId = {{ product_id }};
+    </script>
+    <script src="/static/product.js"></script>
+</body>
+</html>

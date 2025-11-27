@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShopZone - E-commerce Store</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <h1 class="logo">ShopZone</h1>
+                <p class="tagline">Your One-Stop Shopping Destination</p>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="filters-section">
+            <h3>Filter Products</h3>
+            <div class="filter-group">
+                <label for="category-filter">Category:</label>
+                <select id="category-filter">
+                    <option value="">All Categories</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="brand-filter">Brand:</label>
+                <select id="brand-filter">
+                    <option value="">All Brands</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="sort-filter">Sort By:</label>
+                <select id="sort-filter">
+                    <option value="">Default</option>
+                    <option value="price-low">Price: Low to High</option>
+                    <option value="price-high">Price: High to Low</option>
+                    <option value="rating">Rating</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="products-section">
+            <h2>Our Products</h2>
+            <div id="products-container" class="products-grid">
+                <p class="loading">Loading products...</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>ShopZone - DBMS NoSQL Project | MongoDB + Flask + Python</p>
+        </div>
+    </footer>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

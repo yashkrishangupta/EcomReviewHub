@@ -1,0 +1,314 @@
+[
+  {
+    "product_id": 101,
+    "user": "Sneha",
+    "rating": 1,
+    "comment": "Delivery was delayed but product is okay.",
+    "created_at": "2025-11-17T04:00:00",
+    "_id": "129758a9-f9c5-4f8a-8bdc-e2b3fbcf1994"
+  },
+  {
+    "product_id": 101,
+    "user": "Rohan",
+    "rating": 5,
+    "comment": "Amazing value for money.",
+    "created_at": "2025-11-05T16:00:00",
+    "_id": "e545b49e-4a4c-4540-a9fc-77ec6bde9922"
+  },
+  {
+    "product_id": 101,
+    "user": "Yash",
+    "rating": 4,
+    "comment": "Love it! Exactly what I was looking for.",
+    "created_at": "2025-11-08T10:00:00",
+    "_id": "32b588b3-1745-4556-b5d6-94fd23e6214a"
+  },
+  {
+    "product_id": 101,
+    "user": "Amit",
+    "rating": 4,
+    "comment": "Excellent quality and fast delivery.",
+    "created_at": "2025-11-22T05:00:00",
+    "_id": "2ceee936-73fc-4215-9cdd-64a8ddbe1f95"
+  },
+  {
+    "product_id": 102,
+    "user": "Amit",
+    "rating": 4,
+    "comment": "Excellent quality and fast delivery.",
+    "created_at": "2025-11-12T12:00:00",
+    "_id": "1ec4f560-e934-461d-a0a8-fd12be49f3e3"
+  },
+  {
+    "product_id": 102,
+    "user": "Ananya",
+    "rating": 4,
+    "comment": "Amazing value for money.",
+    "created_at": "2025-11-09T13:00:00",
+    "_id": "258d5cb6-63cd-4413-b833-e21e0488825f"
+  },
+  {
+    "product_id": 102,
+    "user": "Rohan",
+    "rating": 4,
+    "comment": "Fantastic product, will buy again!",
+    "created_at": "2025-11-24T12:00:00",
+    "_id": "3310fa15-e2ca-47e3-ad28-6a090265380a"
+  },
+  {
+    "product_id": 102,
+    "user": "Priya",
+    "rating": 4,
+    "comment": "Love it! Exactly what I was looking for.",
+    "created_at": "2025-11-13T17:00:00",
+    "_id": "8969b70a-10c5-43e1-9063-f50419f72a81"
+  },
+  {
+    "product_id": 102,
+    "user": "Ananya",
+    "rating": 3,
+    "comment": "Average product, could be better.",
+    "created_at": "2025-11-19T21:00:00",
+    "_id": "e9756f13-dafe-4453-a1a0-050e9de5546d"
+  },
+  {
+    "product_id": 103,
+    "user": "Rahul",
+    "rating": 4,
+    "comment": "Fantastic product, will buy again!",
+    "created_at": "2025-11-13T03:00:00",
+    "_id": "b3ecf2b4-3525-4489-a17c-19496f744bb4"
+  },
+  {
+    "product_id": 103,
+    "user": "Rahul",
+    "rating": 4,
+    "comment": "Best purchase I've made this year.",
+    "created_at": "2025-11-15T17:00:00",
+    "_id": "b9332b85-a48d-4ea1-86da-50ccac769d95"
+  },
+  {
+    "product_id": 103,
+    "user": "Amit",
+    "rating": 4,
+    "comment": "Fantastic product, will buy again!",
+    "created_at": "2025-11-14T18:00:00",
+    "_id": "b750e55b-0654-4459-8cc7-f5125c925bce"
+  },
+  {
+    "product_id": 104,
+    "user": "Rohan",
+    "rating": 5,
+    "comment": "Best purchase I've made this year.",
+    "created_at": "2025-11-10T15:00:00",
+    "_id": "e19d4311-4da7-48af-97be-0674b5cdcd6c"
+  },
+  {
+    "product_id": 104,
+    "user": "Yash",
+    "rating": 3,
+    "comment": "Good product, serves its purpose.",
+    "created_at": "2025-11-09T06:00:00",
+    "_id": "f777ce78-4065-4af6-ac87-da5093fcd17a"
+  },
+  {
+    "product_id": 105,
+    "user": "Vikram",
+    "rating": 3,
+    "comment": "Average product, could be better.",
+    "created_at": "2025-11-04T19:00:00",
+    "_id": "dcf2d90b-a547-4018-bb26-9ffa2905a34a"
+  },
+  {
+    "product_id": 105,
+    "user": "Sneha",
+    "rating": 4,
+    "comment": "Amazing value for money.",
+    "created_at": "2025-11-02T16:00:00",
+    "_id": "c4518ca8-956b-4a72-82dd-e5f599ca8af0"
+  },
+  {
+    "product_id": 105,
+    "user": "Rohan",
+    "rating": 2,
+    "comment": "Could have been better for this price.",
+    "created_at": "2025-11-01T20:00:00",
+    "_id": "da09adae-6b20-4822-8a69-b885ab8f4b10"
+  },
+  {
+    "product_id": 106,
+    "user": "Priya",
+    "rating": 5,
+    "comment": "Superb quality, exceeded expectations!",
+    "created_at": "2025-11-12T00:00:00",
+    "_id": "f106368a-0c09-4248-91cc-311c2aeae7cd"
+  },
+  {
+    "product_id": 106,
+    "user": "Sneha",
+    "rating": 5,
+    "comment": "Excellent quality and fast delivery.",
+    "created_at": "2025-11-01T15:00:00",
+    "_id": "b60c3898-0a4a-4a64-985d-e99acd89152d"
+  },
+  {
+    "product_id": 106,
+    "user": "Yash",
+    "rating": 5,
+    "comment": "Superb quality, exceeded expectations!",
+    "created_at": "2025-11-02T14:00:00",
+    "_id": "1c38280a-1814-4a9b-bc86-2dfa453f6623"
+  },
+  {
+    "product_id": 106,
+    "user": "Kavya",
+    "rating": 5,
+    "comment": "Fantastic product, will buy again!",
+    "created_at": "2025-11-19T09:00:00",
+    "_id": "af750df6-8053-4760-8d30-93bff5e0ba14"
+  },
+  {
+    "product_id": 107,
+    "user": "Amit",
+    "rating": 5,
+    "comment": "Amazing value for money.",
+    "created_at": "2025-11-06T11:00:00",
+    "_id": "b5a3138e-16ca-4600-9eb6-e4097a551335"
+  },
+  {
+    "product_id": 107,
+    "user": "Vikram",
+    "rating": 5,
+    "comment": "Great product! Highly recommended.",
+    "created_at": "2025-11-12T06:00:00",
+    "_id": "be6cf838-a8e9-47de-af25-6ced1a3d2ac0"
+  },
+  {
+    "product_id": 107,
+    "user": "Vikram",
+    "rating": 4,
+    "comment": "Love it! Exactly what I was looking for.",
+    "created_at": "2025-11-08T03:00:00",
+    "_id": "7550100c-11eb-42c7-a43d-b72139b365b9"
+  },
+  {
+    "product_id": 107,
+    "user": "Rahul",
+    "rating": 2,
+    "comment": "Delivery was delayed but product is okay.",
+    "created_at": "2025-11-21T18:00:00",
+    "_id": "643fa444-7e37-4848-ae96-84b4f2f749cb"
+  },
+  {
+    "product_id": 107,
+    "user": "Rohan",
+    "rating": 4,
+    "comment": "Fantastic product, will buy again!",
+    "created_at": "2025-11-20T16:00:00",
+    "_id": "cc1d1376-6e9e-4ed8-bb89-4b554deeb357"
+  },
+  {
+    "product_id": 108,
+    "user": "Kavya",
+    "rating": 5,
+    "comment": "Excellent quality and fast delivery.",
+    "created_at": "2025-11-21T15:00:00",
+    "_id": "3a54593d-ec60-46e8-8d9d-502d2d4b2b6d"
+  },
+  {
+    "product_id": 108,
+    "user": "Vikram",
+    "rating": 2,
+    "comment": "Not as expected, quality could be better.",
+    "created_at": "2025-11-20T01:00:00",
+    "_id": "28a1ad41-cda3-4eeb-b9cf-12726bedba74"
+  },
+  {
+    "product_id": 108,
+    "user": "Amit",
+    "rating": 5,
+    "comment": "Fantastic product, will buy again!",
+    "created_at": "2025-11-23T16:00:00",
+    "_id": "9c9efb6f-8c31-4a4f-89ab-3dbadb08d938"
+  },
+  {
+    "product_id": 108,
+    "user": "Priya",
+    "rating": 4,
+    "comment": "Excellent quality and fast delivery.",
+    "created_at": "2025-11-17T05:00:00",
+    "_id": "97ce42a4-a1dd-4219-807a-8943485aecb6"
+  },
+  {
+    "product_id": 108,
+    "user": "Rohan",
+    "rating": 2,
+    "comment": "Delivery was delayed but product is okay.",
+    "created_at": "2025-11-17T21:00:00",
+    "_id": "3e8d2822-2858-4fe2-9277-51f6444657c2"
+  },
+  {
+    "product_id": 109,
+    "user": "Neha",
+    "rating": 4,
+    "comment": "Great product! Highly recommended.",
+    "created_at": "2025-11-26T03:00:00",
+    "_id": "10be53e3-dd9b-4d15-8450-0a0c628f85ef"
+  },
+  {
+    "product_id": 109,
+    "user": "Yash",
+    "rating": 3,
+    "comment": "Decent quality for the price.",
+    "created_at": "2025-11-07T13:00:00",
+    "_id": "a8b1876e-30f4-4b4b-9c82-435c099dc082"
+  },
+  {
+    "product_id": 109,
+    "user": "Rohan",
+    "rating": 4,
+    "comment": "Amazing value for money.",
+    "created_at": "2025-11-06T16:00:00",
+    "_id": "41bc8815-de58-49ef-9007-9bc0e8e4d4a9"
+  },
+  {
+    "product_id": 109,
+    "user": "Priya",
+    "rating": 5,
+    "comment": "Amazing value for money.",
+    "created_at": "2025-11-17T06:00:00",
+    "_id": "f1334846-f74e-4749-aefe-0d8b9bcf1319"
+  },
+  {
+    "product_id": 109,
+    "user": "Rohan",
+    "rating": 4,
+    "comment": "Amazing value for money.",
+    "created_at": "2025-11-15T00:00:00",
+    "_id": "92e1c642-3e95-4852-a49f-16976c2f553c"
+  },
+  {
+    "product_id": 110,
+    "user": "Neha",
+    "rating": 4,
+    "comment": "Excellent quality and fast delivery.",
+    "created_at": "2025-11-26T04:00:00",
+    "_id": "ab068339-ca4a-4ef9-8e7a-f36a277ce308"
+  },
+  {
+    "product_id": 110,
+    "user": "Kavya",
+    "rating": 4,
+    "comment": "Fantastic product, will buy again!",
+    "created_at": "2025-11-11T15:00:00",
+    "_id": "098106d2-5aa7-49a5-b420-9a0cd556c5d0"
+  },
+  {
+    "product_id": 110,
+    "user": "Amit",
+    "rating": 2,
+    "comment": "Not as expected, quality could be better.",
+    "created_at": "2025-11-02T05:00:00",
+    "_id": "7f0a5a7e-4b8b-4eb0-b2a8-b4435dc52370"
+  }
+]

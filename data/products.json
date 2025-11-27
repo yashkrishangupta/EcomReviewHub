@@ -1,0 +1,152 @@
+[
+  {
+    "product_id": 101,
+    "name": "Noise Smartwatch X1",
+    "category": "Electronics",
+    "brand": "Noise",
+    "price": 2499,
+    "tags": [
+      "watch",
+      "smart",
+      "fitness"
+    ],
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+    "_id": "24221ed1-8d55-4245-81c4-a6eb3a75399c"
+  },
+  {
+    "product_id": 102,
+    "name": "boAt Airdopes 141",
+    "category": "Electronics",
+    "brand": "boAt",
+    "price": 1299,
+    "tags": [
+      "earbuds",
+      "wireless",
+      "bluetooth"
+    ],
+    "stock": 50,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400",
+    "_id": "b45f53a0-a157-49e3-9bab-5193cebb7d4d"
+  },
+  {
+    "product_id": 103,
+    "name": "Samsung Galaxy M14",
+    "category": "Electronics",
+    "brand": "Samsung",
+    "price": 13999,
+    "tags": [
+      "phone",
+      "smartphone",
+      "5g"
+    ],
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400",
+    "_id": "211f9365-0ff1-4104-8837-51ad515dfced"
+  },
+  {
+    "product_id": 104,
+    "name": "Nike Air Max 270",
+    "category": "Footwear",
+    "brand": "Nike",
+    "price": 8995,
+    "tags": [
+      "shoes",
+      "sports",
+      "running"
+    ],
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    "_id": "e6fa930a-f055-43d8-a7ff-8dec9cfb583d"
+  },
+  {
+    "product_id": 105,
+    "name": "Adidas Ultraboost",
+    "category": "Footwear",
+    "brand": "Adidas",
+    "price": 12999,
+    "tags": [
+      "shoes",
+      "running",
+      "comfort"
+    ],
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=400",
+    "_id": "e1f60a26-9f9f-485a-9079-42291860f0b7"
+  },
+  {
+    "product_id": 106,
+    "name": "Levi's 501 Original Jeans",
+    "category": "Clothing",
+    "brand": "Levi's",
+    "price": 2999,
+    "tags": [
+      "jeans",
+      "denim",
+      "casual"
+    ],
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400",
+    "_id": "ded2f08d-e62f-4f80-95a2-95434404e84c"
+  },
+  {
+    "product_id": 107,
+    "name": "HP Pavilion Laptop",
+    "category": "Electronics",
+    "brand": "HP",
+    "price": 54999,
+    "tags": [
+      "laptop",
+      "computer",
+      "gaming"
+    ],
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400",
+    "_id": "d5537ce5-1f89-44f6-ac20-2f22c6c98add"
+  },
+  {
+    "product_id": 108,
+    "name": "Sony WH-1000XM5",
+    "category": "Electronics",
+    "brand": "Sony",
+    "price": 29990,
+    "tags": [
+      "headphones",
+      "wireless",
+      "noise-cancelling"
+    ],
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    "_id": "d7272d9f-25c6-4492-ba29-b31821a5e495"
+  },
+  {
+    "product_id": 109,
+    "name": "Puma RS-X Sneakers",
+    "category": "Footwear",
+    "brand": "Puma",
+    "price": 6999,
+    "tags": [
+      "sneakers",
+      "casual",
+      "trendy"
+    ],
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=400",
+    "_id": "5466f94f-1109-492f-8b86-c0c5092bedaa"
+  },
+  {
+    "product_id": 110,
+    "name": "Ray-Ban Aviator Sunglasses",
+    "category": "Accessories",
+    "brand": "Ray-Ban",
+    "price": 7490,
+    "tags": [
+      "sunglasses",
+      "fashion",
+      "UV protection"
+    ],
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400",
+    "_id": "e07af8a5-0fa9-4020-a311-b562876d1ec1"
+  }
+]
