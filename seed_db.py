@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 import random
 import os
 
-MONGODB_URI = os.environ.get('MONGODB_URI', '')
+MONGODB_URI = os.environ.get('MONGODB_URI', 'mongodb://localhost:27017/')
 
 if MONGODB_URI:
     from pymongo import MongoClient

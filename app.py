@@ -7,7 +7,7 @@ import os
 app = Flask(__name__)
 app.secret_key = os.environ.get('SESSION_SECRET', 'dev-secret-key')
 
-MONGODB_URI = os.environ.get('MONGODB_URI', '')
+MONGODB_URI = os.environ.get('MONGODB_URI', 'mongodb://localhost:27017/')
 
 if MONGODB_URI:
     client = MongoClient(MONGODB_URI, server_api=ServerApi('1'))
@@ -130,4 +130,4 @@ def get_brands():
     return jsonify(brands)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(port=5001,debug=True)
